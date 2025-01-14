@@ -27,7 +27,7 @@ CIFAR_100 [官方地址](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## 训练模型
 
-在 'train.py' 中，修改相关参数配置训练环境
+在 `train.py` 中，修改相关参数配置训练环境
 
 ``` python
 # sgd adam sam_sgd sam_adam esam_sgd esam_adam looksam_sgd looksam_adam dynamicsam_sgd dynamicsam_adam
