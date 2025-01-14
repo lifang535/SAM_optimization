@@ -1,0 +1,202 @@
+2025-01-13 14:53:11,599 INFO: Epoch 1/100
+2025-01-13 14:53:11,600 INFO: Average Loss: 3.7124, Training Accuracy: 21.75%, Test Accuracy: 20.69%
+2025-01-13 14:55:21,119 INFO: Epoch 2/100
+2025-01-13 14:55:21,119 INFO: Average Loss: 2.7981, Training Accuracy: 37.55%, Test Accuracy: 34.36%
+2025-01-13 14:57:31,405 INFO: Epoch 3/100
+2025-01-13 14:57:31,405 INFO: Average Loss: 2.1998, Training Accuracy: 49.80%, Test Accuracy: 43.96%
+2025-01-13 14:59:52,932 INFO: Epoch 4/100
+2025-01-13 14:59:52,933 INFO: Average Loss: 1.8026, Training Accuracy: 58.62%, Test Accuracy: 47.97%
+2025-01-13 15:02:18,074 INFO: Epoch 5/100
+2025-01-13 15:02:18,075 INFO: Average Loss: 1.4670, Training Accuracy: 67.89%, Test Accuracy: 51.50%
+2025-01-13 15:04:27,155 INFO: Epoch 6/100
+2025-01-13 15:04:27,155 INFO: Average Loss: 1.1413, Training Accuracy: 76.54%, Test Accuracy: 52.79%
+2025-01-13 15:06:37,723 INFO: Epoch 7/100
+2025-01-13 15:06:37,723 INFO: Average Loss: 0.8109, Training Accuracy: 84.18%, Test Accuracy: 53.80%
+2025-01-13 15:08:59,098 INFO: Epoch 8/100
+2025-01-13 15:08:59,099 INFO: Average Loss: 0.5153, Training Accuracy: 90.83%, Test Accuracy: 53.39%
+2025-01-13 15:11:25,324 INFO: Epoch 9/100
+2025-01-13 15:11:25,324 INFO: Average Loss: 0.2933, Training Accuracy: 94.17%, Test Accuracy: 53.09%
+2025-01-13 15:13:34,690 INFO: Epoch 10/100
+2025-01-13 15:13:34,690 INFO: Average Loss: 0.2012, Training Accuracy: 94.55%, Test Accuracy: 52.62%
+2025-01-13 15:15:44,332 INFO: Epoch 11/100
+2025-01-13 15:15:44,332 INFO: Average Loss: 0.1740, Training Accuracy: 95.80%, Test Accuracy: 52.38%
+2025-01-13 15:18:04,592 INFO: Epoch 12/100
+2025-01-13 15:18:04,593 INFO: Average Loss: 0.1434, Training Accuracy: 96.49%, Test Accuracy: 52.52%
+2025-01-13 15:20:30,522 INFO: Epoch 13/100
+2025-01-13 15:20:30,523 INFO: Average Loss: 0.1194, Training Accuracy: 96.02%, Test Accuracy: 51.55%
+2025-01-13 15:22:40,582 INFO: Epoch 14/100
+2025-01-13 15:22:40,583 INFO: Average Loss: 0.1199, Training Accuracy: 97.08%, Test Accuracy: 51.82%
+2025-01-13 15:24:52,259 INFO: Epoch 15/100
+2025-01-13 15:24:52,259 INFO: Average Loss: 0.1102, Training Accuracy: 96.92%, Test Accuracy: 51.88%
+2025-01-13 15:27:12,219 INFO: Epoch 16/100
+2025-01-13 15:27:12,219 INFO: Average Loss: 0.0998, Training Accuracy: 97.79%, Test Accuracy: 52.59%
+2025-01-13 15:29:38,222 INFO: Epoch 17/100
+2025-01-13 15:29:38,222 INFO: Average Loss: 0.0889, Training Accuracy: 97.84%, Test Accuracy: 52.62%
+2025-01-13 15:31:49,632 INFO: Epoch 18/100
+2025-01-13 15:31:49,632 INFO: Average Loss: 0.0798, Training Accuracy: 97.39%, Test Accuracy: 52.43%
+2025-01-13 15:33:59,771 INFO: Epoch 19/100
+2025-01-13 15:33:59,772 INFO: Average Loss: 0.0818, Training Accuracy: 97.86%, Test Accuracy: 52.90%
+2025-01-13 15:36:18,157 INFO: Epoch 20/100
+2025-01-13 15:36:18,157 INFO: Average Loss: 0.0827, Training Accuracy: 98.52%, Test Accuracy: 52.97%
+2025-01-13 15:38:44,101 INFO: Epoch 21/100
+2025-01-13 15:38:44,102 INFO: Average Loss: 0.0624, Training Accuracy: 98.32%, Test Accuracy: 52.28%
+2025-01-13 15:40:56,282 INFO: Epoch 22/100
+2025-01-13 15:40:56,283 INFO: Average Loss: 0.0720, Training Accuracy: 97.67%, Test Accuracy: 51.57%
+2025-01-13 15:43:07,121 INFO: Epoch 23/100
+2025-01-13 15:43:07,121 INFO: Average Loss: 0.0630, Training Accuracy: 98.58%, Test Accuracy: 52.43%
+2025-01-13 15:45:26,096 INFO: Epoch 24/100
+2025-01-13 15:45:26,097 INFO: Average Loss: 0.0501, Training Accuracy: 98.28%, Test Accuracy: 51.92%
+2025-01-13 15:47:51,889 INFO: Epoch 25/100
+2025-01-13 15:47:51,890 INFO: Average Loss: 0.0743, Training Accuracy: 98.40%, Test Accuracy: 52.07%
+2025-01-13 15:50:05,142 INFO: Epoch 26/100
+2025-01-13 15:50:05,142 INFO: Average Loss: 0.0626, Training Accuracy: 98.55%, Test Accuracy: 52.50%
+2025-01-13 15:52:15,903 INFO: Epoch 27/100
+2025-01-13 15:52:15,903 INFO: Average Loss: 0.0583, Training Accuracy: 98.57%, Test Accuracy: 52.40%
+2025-01-13 15:54:33,008 INFO: Epoch 28/100
+2025-01-13 15:54:33,008 INFO: Average Loss: 0.0520, Training Accuracy: 98.42%, Test Accuracy: 52.04%
+2025-01-13 15:57:00,757 INFO: Epoch 29/100
+2025-01-13 15:57:00,758 INFO: Average Loss: 0.0475, Training Accuracy: 98.96%, Test Accuracy: 52.99%
+2025-01-13 15:59:13,790 INFO: Epoch 30/100
+2025-01-13 15:59:13,790 INFO: Average Loss: 0.0433, Training Accuracy: 98.51%, Test Accuracy: 52.18%
+2025-01-13 16:01:26,484 INFO: Epoch 31/100
+2025-01-13 16:01:26,484 INFO: Average Loss: 0.0526, Training Accuracy: 98.52%, Test Accuracy: 52.51%
+2025-01-13 16:03:43,370 INFO: Epoch 32/100
+2025-01-13 16:03:43,370 INFO: Average Loss: 0.0413, Training Accuracy: 99.02%, Test Accuracy: 53.09%
+2025-01-13 16:06:10,778 INFO: Epoch 33/100
+2025-01-13 16:06:10,779 INFO: Average Loss: 0.0484, Training Accuracy: 98.89%, Test Accuracy: 52.64%
+2025-01-13 16:08:24,115 INFO: Epoch 34/100
+2025-01-13 16:08:24,115 INFO: Average Loss: 0.0402, Training Accuracy: 98.97%, Test Accuracy: 52.83%
+2025-01-13 16:10:36,985 INFO: Epoch 35/100
+2025-01-13 16:10:36,985 INFO: Average Loss: 0.0441, Training Accuracy: 99.00%, Test Accuracy: 52.83%
+2025-01-13 16:12:52,280 INFO: Epoch 36/100
+2025-01-13 16:12:52,280 INFO: Average Loss: 0.0377, Training Accuracy: 99.25%, Test Accuracy: 52.66%
+2025-01-13 16:15:19,185 INFO: Epoch 37/100
+2025-01-13 16:15:19,186 INFO: Average Loss: 0.0447, Training Accuracy: 98.65%, Test Accuracy: 52.27%
+2025-01-13 16:17:30,768 INFO: Epoch 38/100
+2025-01-13 16:17:30,769 INFO: Average Loss: 0.0379, Training Accuracy: 99.19%, Test Accuracy: 53.02%
+2025-01-13 16:19:45,716 INFO: Epoch 39/100
+2025-01-13 16:19:45,716 INFO: Average Loss: 0.0395, Training Accuracy: 98.97%, Test Accuracy: 52.90%
+2025-01-13 16:22:01,540 INFO: Epoch 40/100
+2025-01-13 16:22:01,540 INFO: Average Loss: 0.0329, Training Accuracy: 99.10%, Test Accuracy: 52.33%
+2025-01-13 16:24:29,526 INFO: Epoch 41/100
+2025-01-13 16:24:29,527 INFO: Average Loss: 0.0341, Training Accuracy: 99.02%, Test Accuracy: 52.02%
+2025-01-13 16:26:43,182 INFO: Epoch 42/100
+2025-01-13 16:26:43,182 INFO: Average Loss: 0.0351, Training Accuracy: 98.97%, Test Accuracy: 51.73%
+2025-01-13 16:28:55,950 INFO: Epoch 43/100
+2025-01-13 16:28:55,950 INFO: Average Loss: 0.0374, Training Accuracy: 99.30%, Test Accuracy: 53.07%
+2025-01-13 16:31:12,285 INFO: Epoch 44/100
+2025-01-13 16:31:12,286 INFO: Average Loss: 0.0258, Training Accuracy: 99.33%, Test Accuracy: 52.65%
+2025-01-13 16:33:38,701 INFO: Epoch 45/100
+2025-01-13 16:33:38,701 INFO: Average Loss: 0.0338, Training Accuracy: 98.56%, Test Accuracy: 51.83%
+2025-01-13 16:35:54,141 INFO: Epoch 46/100
+2025-01-13 16:35:54,141 INFO: Average Loss: 0.0342, Training Accuracy: 99.07%, Test Accuracy: 52.53%
+2025-01-13 16:38:04,907 INFO: Epoch 47/100
+2025-01-13 16:38:04,908 INFO: Average Loss: 0.0289, Training Accuracy: 99.12%, Test Accuracy: 52.27%
+2025-01-13 16:40:21,579 INFO: Epoch 48/100
+2025-01-13 16:40:21,580 INFO: Average Loss: 0.0307, Training Accuracy: 99.31%, Test Accuracy: 52.77%
+2025-01-13 16:42:48,838 INFO: Epoch 49/100
+2025-01-13 16:42:48,838 INFO: Average Loss: 0.0265, Training Accuracy: 99.05%, Test Accuracy: 51.79%
+2025-01-13 16:45:03,212 INFO: Epoch 50/100
+2025-01-13 16:45:03,213 INFO: Average Loss: 0.0330, Training Accuracy: 99.11%, Test Accuracy: 52.10%
+2025-01-13 16:47:13,566 INFO: Epoch 51/100
+2025-01-13 16:47:13,566 INFO: Average Loss: 0.0292, Training Accuracy: 99.34%, Test Accuracy: 53.00%
+2025-01-13 16:49:28,879 INFO: Epoch 52/100
+2025-01-13 16:49:28,879 INFO: Average Loss: 0.0276, Training Accuracy: 99.31%, Test Accuracy: 52.77%
+2025-01-13 16:51:54,668 INFO: Epoch 53/100
+2025-01-13 16:51:54,668 INFO: Average Loss: 0.0270, Training Accuracy: 99.45%, Test Accuracy: 53.50%
+2025-01-13 16:54:11,074 INFO: Epoch 54/100
+2025-01-13 16:54:11,074 INFO: Average Loss: 0.0313, Training Accuracy: 99.23%, Test Accuracy: 52.69%
+2025-01-13 16:56:23,494 INFO: Epoch 55/100
+2025-01-13 16:56:23,494 INFO: Average Loss: 0.0302, Training Accuracy: 99.19%, Test Accuracy: 52.37%
+2025-01-13 16:58:37,735 INFO: Epoch 56/100
+2025-01-13 16:58:37,735 INFO: Average Loss: 0.0169, Training Accuracy: 99.59%, Test Accuracy: 53.37%
+2025-01-13 17:01:04,595 INFO: Epoch 57/100
+2025-01-13 17:01:04,595 INFO: Average Loss: 0.0240, Training Accuracy: 99.10%, Test Accuracy: 52.29%
+2025-01-13 17:03:20,666 INFO: Epoch 58/100
+2025-01-13 17:03:20,666 INFO: Average Loss: 0.0338, Training Accuracy: 99.33%, Test Accuracy: 52.52%
+2025-01-13 17:05:34,047 INFO: Epoch 59/100
+2025-01-13 17:05:34,047 INFO: Average Loss: 0.0216, Training Accuracy: 99.62%, Test Accuracy: 53.06%
+2025-01-13 17:07:46,942 INFO: Epoch 60/100
+2025-01-13 17:07:46,942 INFO: Average Loss: 0.0194, Training Accuracy: 99.42%, Test Accuracy: 52.82%
+2025-01-13 17:10:13,689 INFO: Epoch 61/100
+2025-01-13 17:10:13,690 INFO: Average Loss: 0.0232, Training Accuracy: 99.45%, Test Accuracy: 53.05%
+2025-01-13 17:12:27,165 INFO: Epoch 62/100
+2025-01-13 17:12:27,165 INFO: Average Loss: 0.0250, Training Accuracy: 99.54%, Test Accuracy: 53.31%
+2025-01-13 17:14:41,277 INFO: Epoch 63/100
+2025-01-13 17:14:41,277 INFO: Average Loss: 0.0246, Training Accuracy: 99.53%, Test Accuracy: 53.57%
+2025-01-13 17:16:54,608 INFO: Epoch 64/100
+2025-01-13 17:16:54,608 INFO: Average Loss: 0.0208, Training Accuracy: 99.24%, Test Accuracy: 52.86%
+2025-01-13 17:19:22,380 INFO: Epoch 65/100
+2025-01-13 17:19:22,380 INFO: Average Loss: 0.0211, Training Accuracy: 99.52%, Test Accuracy: 53.08%
+2025-01-13 17:21:36,736 INFO: Epoch 66/100
+2025-01-13 17:21:36,736 INFO: Average Loss: 0.0242, Training Accuracy: 99.35%, Test Accuracy: 53.07%
+2025-01-13 17:23:50,087 INFO: Epoch 67/100
+2025-01-13 17:23:50,087 INFO: Average Loss: 0.0242, Training Accuracy: 99.44%, Test Accuracy: 53.12%
+2025-01-13 17:26:07,220 INFO: Epoch 68/100
+2025-01-13 17:26:07,220 INFO: Average Loss: 0.0215, Training Accuracy: 99.56%, Test Accuracy: 52.32%
+2025-01-13 17:28:33,209 INFO: Epoch 69/100
+2025-01-13 17:28:33,210 INFO: Average Loss: 0.0135, Training Accuracy: 99.75%, Test Accuracy: 53.00%
+2025-01-13 17:30:49,507 INFO: Epoch 70/100
+2025-01-13 17:30:49,507 INFO: Average Loss: 0.0212, Training Accuracy: 99.38%, Test Accuracy: 52.65%
+2025-01-13 17:33:01,151 INFO: Epoch 71/100
+2025-01-13 17:33:01,151 INFO: Average Loss: 0.0240, Training Accuracy: 99.24%, Test Accuracy: 51.43%
+2025-01-13 17:35:16,222 INFO: Epoch 72/100
+2025-01-13 17:35:16,222 INFO: Average Loss: 0.0241, Training Accuracy: 99.19%, Test Accuracy: 52.13%
+2025-01-13 17:37:40,733 INFO: Epoch 73/100
+2025-01-13 17:37:40,734 INFO: Average Loss: 0.0146, Training Accuracy: 99.59%, Test Accuracy: 52.94%
+2025-01-13 17:39:55,526 INFO: Epoch 74/100
+2025-01-13 17:39:55,527 INFO: Average Loss: 0.0193, Training Accuracy: 99.19%, Test Accuracy: 51.89%
+2025-01-13 17:42:08,355 INFO: Epoch 75/100
+2025-01-13 17:42:08,355 INFO: Average Loss: 0.0190, Training Accuracy: 99.38%, Test Accuracy: 52.79%
+2025-01-13 17:44:23,971 INFO: Epoch 76/100
+2025-01-13 17:44:23,971 INFO: Average Loss: 0.0215, Training Accuracy: 99.38%, Test Accuracy: 52.15%
+2025-01-13 17:46:48,719 INFO: Epoch 77/100
+2025-01-13 17:46:48,719 INFO: Average Loss: 0.0216, Training Accuracy: 99.59%, Test Accuracy: 52.78%
+2025-01-13 17:49:02,935 INFO: Epoch 78/100
+2025-01-13 17:49:02,936 INFO: Average Loss: 0.0119, Training Accuracy: 99.51%, Test Accuracy: 52.31%
+2025-01-13 17:51:15,650 INFO: Epoch 79/100
+2025-01-13 17:51:15,650 INFO: Average Loss: 0.0186, Training Accuracy: 99.39%, Test Accuracy: 52.52%
+2025-01-13 17:53:31,425 INFO: Epoch 80/100
+2025-01-13 17:53:31,426 INFO: Average Loss: 0.0197, Training Accuracy: 99.49%, Test Accuracy: 52.39%
+2025-01-13 17:55:58,182 INFO: Epoch 81/100
+2025-01-13 17:55:58,182 INFO: Average Loss: 0.0196, Training Accuracy: 99.55%, Test Accuracy: 52.97%
+2025-01-13 17:58:11,363 INFO: Epoch 82/100
+2025-01-13 17:58:11,363 INFO: Average Loss: 0.0158, Training Accuracy: 99.64%, Test Accuracy: 52.87%
+2025-01-13 18:00:26,079 INFO: Epoch 83/100
+2025-01-13 18:00:26,079 INFO: Average Loss: 0.0167, Training Accuracy: 99.71%, Test Accuracy: 53.34%
+2025-01-13 18:02:41,862 INFO: Epoch 84/100
+2025-01-13 18:02:41,862 INFO: Average Loss: 0.0151, Training Accuracy: 99.51%, Test Accuracy: 53.19%
+2025-01-13 18:05:07,913 INFO: Epoch 85/100
+2025-01-13 18:05:07,914 INFO: Average Loss: 0.0179, Training Accuracy: 99.49%, Test Accuracy: 52.41%
+2025-01-13 18:07:21,531 INFO: Epoch 86/100
+2025-01-13 18:07:21,531 INFO: Average Loss: 0.0186, Training Accuracy: 99.56%, Test Accuracy: 52.73%
+2025-01-13 18:09:39,256 INFO: Epoch 87/100
+2025-01-13 18:09:39,256 INFO: Average Loss: 0.0171, Training Accuracy: 99.59%, Test Accuracy: 53.08%
+2025-01-13 18:11:55,204 INFO: Epoch 88/100
+2025-01-13 18:11:55,204 INFO: Average Loss: 0.0168, Training Accuracy: 99.58%, Test Accuracy: 52.81%
+2025-01-13 18:14:19,534 INFO: Epoch 89/100
+2025-01-13 18:14:19,535 INFO: Average Loss: 0.0124, Training Accuracy: 99.39%, Test Accuracy: 52.32%
+2025-01-13 18:16:34,406 INFO: Epoch 90/100
+2025-01-13 18:16:34,406 INFO: Average Loss: 0.0191, Training Accuracy: 99.47%, Test Accuracy: 52.89%
+2025-01-13 18:18:47,204 INFO: Epoch 91/100
+2025-01-13 18:18:47,204 INFO: Average Loss: 0.0150, Training Accuracy: 99.56%, Test Accuracy: 52.62%
+2025-01-13 18:21:02,966 INFO: Epoch 92/100
+2025-01-13 18:21:02,966 INFO: Average Loss: 0.0141, Training Accuracy: 99.62%, Test Accuracy: 53.54%
+2025-01-13 18:23:26,048 INFO: Epoch 93/100
+2025-01-13 18:23:26,049 INFO: Average Loss: 0.0114, Training Accuracy: 99.47%, Test Accuracy: 52.56%
+2025-01-13 18:25:45,952 INFO: Epoch 94/100
+2025-01-13 18:25:45,952 INFO: Average Loss: 0.0203, Training Accuracy: 99.66%, Test Accuracy: 53.38%
+2025-01-13 18:28:01,060 INFO: Epoch 95/100
+2025-01-13 18:28:01,060 INFO: Average Loss: 0.0196, Training Accuracy: 99.61%, Test Accuracy: 53.79%
+2025-01-13 18:30:16,012 INFO: Epoch 96/100
+2025-01-13 18:30:16,012 INFO: Average Loss: 0.0131, Training Accuracy: 99.78%, Test Accuracy: 53.61%
+2025-01-13 18:32:37,386 INFO: Epoch 97/100
+2025-01-13 18:32:37,387 INFO: Average Loss: 0.0114, Training Accuracy: 99.65%, Test Accuracy: 53.13%
+2025-01-13 18:34:55,757 INFO: Epoch 98/100
+2025-01-13 18:34:55,757 INFO: Average Loss: 0.0186, Training Accuracy: 99.70%, Test Accuracy: 52.56%
+2025-01-13 18:37:08,900 INFO: Epoch 99/100
+2025-01-13 18:37:08,901 INFO: Average Loss: 0.0091, Training Accuracy: 99.82%, Test Accuracy: 53.78%
+2025-01-13 18:39:21,833 INFO: Epoch 100/100
+2025-01-13 18:39:21,833 INFO: Average Loss: 0.0127, Training Accuracy: 99.47%, Test Accuracy: 52.30%
+2025-01-13 18:39:21,833 INFO: Finished Training
+2025-01-13 18:39:21,907 INFO: Saving training results
