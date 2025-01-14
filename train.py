@@ -10,25 +10,6 @@ import matplotlib.pyplot as plt
 from model import get_model
 from optimizer import get_optimizer
 
-# TODO: 给图片加高斯噪声/卷积核平滑处理（再解噪声），给模型处理，看看效果（可能可以防止过拟合，提高泛化性）
-# TODO: 可迁移性（贝叶斯，黑盒攻击）
-# TODO: 或者对 loss 添加高斯噪声
-# TODO: 动态损失函数、动态调整学习率等
-# TODO: 和 batch 组成挂钩，比如重组 batch，或者对 batch 添加噪声
-# TODO: train 上准确率达到一定值后，再提高没有意义，可以分析一下和 test 上准确率的函数关系（从而确定训练集解和最优解的“距离”，根据“距离”为计算 loss 设置波动）
-# TODO: 增加几个维度的 loss function，然后动态调整系数，分别看效果
-# TODO: SAM 改为计算二阶导数，或者算二阶 loss
-# TODO: 解决两个问题：速度慢、开始 loss 下降慢
-# TODO: ResNet34
-# TODO: 根据 loss 确定关于平坦和关于 loss 的系数
-# TODO: Dynamic SAM，解决开始 loss 下降慢的问题和最终 test accuracy 低的问题（loss 之间有冲突）
-# TODO: 动态调整 rho 的值
-# TODO: 更多的 model，更多的 dataset，更多的优化器
-# TODO: 结合 looksam 做 dynamic
-# TODO: DynamicSAM 和 LookSAM 并不互斥，两者可以互相补充
-# TODO: Adam 整体效果比 SGD 好，所以我们的优化还是很有效果的
-# TODO: 记得改 README.md 的代码引用部分
-
 # sgd adam sam_sgd sam_adam esam_sgd esam_adam looksam_sgd looksam_adam dynamicsam_sgd dynamicsam_adam
 METHOD = 'looksam_adam'
 # resnet18 resnet34
@@ -184,7 +165,7 @@ def main():
 
                 closure()
                 optimizer.second_step(zero_grad=True)
-            else: # 使用 SAM # TODO: Dynamic SAM
+            else: # 使用 SAM 
                 def closure():
                     optimizer.zero_grad()
                     outputs = model(inputs)
